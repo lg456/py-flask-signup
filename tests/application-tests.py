@@ -47,7 +47,7 @@ class AppTestCase(unittest.TestCase):
         self.assertTrue(1)
 
     def test_login(self):
-        """ Test that we can authenticate as a user """
+        """ LG Test that we can authenticate as a user """
         self.assertTrue(1)
 
 
